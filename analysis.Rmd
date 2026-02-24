@@ -1,0 +1,9 @@
+---
+title: "Data Analysis"
+output: html_notebook
+---
+
+```{r}
+library(DT)
+datatable(mtcars)
+```
